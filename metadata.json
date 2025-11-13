@@ -1,0 +1,5 @@
+{
+  "name": "Architectural Visualization Tool",
+  "description": "A single-page React app to view and edit an industrial site in 2D and 3D with a prompt-controlled parametric model.",
+  "requestFramePermissions": []
+}
